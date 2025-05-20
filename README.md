@@ -13,6 +13,11 @@ The setup includes:
 - Firewall configuration for client access
 - Automated backup to Cloud Storage
 
+## Video
+
+https://youtu.be/HT7oKCdFJqg
+
+
 ## Prerequisites
 
 - Google Cloud Platform account
