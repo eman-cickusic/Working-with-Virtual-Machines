@@ -1,0 +1,53 @@
+# Minecraft server properties
+# Created for Google Cloud Minecraft server setup
+
+# Basic server settings
+server-port=25565
+server-ip=
+level-name=world
+gamemode=survival
+difficulty=easy
+allow-nether=true
+pvp=true
+allow-flight=false
+enable-command-block=false
+hardcore=false
+online-mode=true
+max-players=50
+spawn-animals=true
+spawn-monsters=true
+spawn-npcs=true
+spawn-protection=16
+view-distance=10
+
+# World generation settings
+level-seed=
+generator-settings=
+level-type=default
+
+# Game settings
+force-gamemode=false
+white-list=false
+enable-query=false
+query.port=25565
+enable-rcon=false
+motd=Minecraft Server on Google Cloud
+op-permission-level=4
+snooper-enabled=true
+max-world-size=29999984
+prevent-proxy-connections=false
+use-native-transport=true
+rate-limit=0
+entity-broadcast-range-percentage=100
+sync-chunk-writes=true
+
+# Resource pack settings
+resource-pack=
+resource-pack-sha1=
+require-resource-pack=false
+
+# Player settings
+player-idle-timeout=0
+max-tick-time=60000
+broadcast-rcon-to-ops=true
+broadcast-console-to-ops=true
